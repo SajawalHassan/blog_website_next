@@ -5,7 +5,7 @@ import Header from "../components/Header";
 
 export default function Home() {
   return (
-    <div className="bg-gray-300 font-mono h-[220vh]">
+    <div className="bg-gray-300 font-mono">
       <Head>
         <title>Blog app</title>
         <link rel="icon" href="/favicon.ico" />
