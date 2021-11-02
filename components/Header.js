@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <div className="p-5 font-bold border-b-2 border-gray-400">
+    <div className="p-5 font-bold text-lg border-b-2 border-gray-400">
       <div className="flex text-center justify-between">
         <h1 className="hover:underline">
           <a href="#">Blog App</a>
