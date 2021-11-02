@@ -6,7 +6,13 @@ function cards() {
 
   return (
     <div className="space-y-5">
-      <CardOption img={img} title="Title" description="Description" />
+      <CardOption
+        img={img}
+        title="Global Leaders Vow to Limit Methane Emissions and Save Forests"
+        description="Nations around the world joined together
+on Tuesday to impose new curbs on methane, a potent greenhouse gas.
+Facing pressure..."
+      />
     </div>
   );
 }
