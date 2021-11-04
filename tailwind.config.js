@@ -8,6 +8,10 @@ module.exports = {
         ...theme("colors"),
         "gray-350": "#cacaca",
       }),
+
+      screens: {
+        "xl.5": "1149px",
+      },
     },
   },
   variants: {

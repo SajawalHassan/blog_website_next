@@ -2,7 +2,7 @@ function cards({ title, description, img }) {
   return (
     <div
       className="p-2 border-2 border-gray-400 rounded-lg
-  bg-gray-350 text-center m-5"
+  bg-gray-350 text-center m-5 xl.5:w-2/3"
     >
       <div
         className="cursor-pointer hover:text-gray-200
